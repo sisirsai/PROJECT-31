@@ -88,7 +88,7 @@ for(var t = 0; t <plinkos.length; t++){
 
 
 if(mkj % 60 === 0){
-	particals.push(new PARTICLE(random(100,1100),7,7));
+	particals.push(new PARTICLE(random(100,1200),7,7));
 }
 
 ground1.display(48,22,8);
